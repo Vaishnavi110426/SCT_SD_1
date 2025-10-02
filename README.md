@@ -1,5 +1,3 @@
-:
-
 🌟 SkillCraft Technology Internship Tasks
 
 This repository contains all the tasks I completed during my internship at SkillCraft Technology.
